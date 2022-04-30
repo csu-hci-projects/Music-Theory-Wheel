@@ -5,6 +5,13 @@
 |VanHook | Alexander |
 | Espy | Michael |
 ### Instructions
+
+ Files needed to execute the program from this repo:
+* MonoBleedingEdge(folder)
+* test_Data(folder)
+* test.exe
+* UnityCrashHandler64
+* UnityPlayer.dll
 ````
 Run the test.exe executable. 
 Use the mouse to aim the cursor.
